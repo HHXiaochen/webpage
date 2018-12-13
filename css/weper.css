@@ -1,0 +1,53 @@
+@charset "UTF-8";
+*{
+    cursor: pointer;
+}
+#nva{
+    padding: 0px 10px;
+}
+@media(max-width:767px) {
+    #loginBut{
+        display: block;
+        width: 120px;
+        position: absolute;
+        top:0px;
+        right: 15%;
+    }a{
+         float: left;
+     } }
+.navbar-brand{
+    margin-left: 15px;
+}
+#onerow{
+    margin-top: 20px;
+}
+.between{
+    margin-top: 10px;
+}
+#footer{
+    background-color:rgba(23,15,22,0.95);
+    width: 100%;
+    padding: 0% 5%;
+    margin: 0px auto;
+}
+#myCarousel{
+    margin: 20px;
+}
+#onerowcolumn{
+    margin: 20px;
+}
+.container{
+    margin-top: 30px;
+}
+ul li{
+    list-style:none;
+}
+#tworowcol{
+    margin: 10px;
+}
+#bg{
+    width: 100%;
+    margin: 100%;
+    background-color: red;
+    /*background-image:url("image/bannerbg.png")*/
+}
